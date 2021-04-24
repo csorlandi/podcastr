@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Challanges
+
+- [ ] Apply responsiveness to all pages
+- [ ] Create a PWA
+- [ ] Dark Theme and Theme Switcher
+- [ ] Create an awesome README
+
 ## Getting Started
 
 First, run the development server:
